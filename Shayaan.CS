@@ -2,6 +2,6 @@
 class Shayaan 
 {
 string x;
-string y
+string y;
 int z;
 }
